@@ -62,7 +62,7 @@
     "step-profiler": "0.3.0",
     "turbo-carto": "0.21.2",
     "underscore": "1.6.0",
-    "uuid": "^8.1.0",
+    "uuid": "^8.3.2",
     "windshaft": "^7.0.1",
     "yargs": "^15.3.1"
   },
